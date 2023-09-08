@@ -64,4 +64,5 @@ For independence is the absolute right of my God-worshipping nation!
 \- Mehmet Âkif Ersoy
 
 [^1]: written in form of code blocks to preserve formatting during parsing
+
 [^2]: Despite being written by Mehmet Âkif Ersoy, he has excluded the Independence March from his book *Safahat*, he clearly states the poem is gifted to the Turkish Nation, and ends his words with "...may the God not let another Independence March be written."

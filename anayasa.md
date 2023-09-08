@@ -1,6 +1,7 @@
 # CONSTITUTION OF THE REPUBLIC OF TURKEY 
 ## PREAMBLE
 (As amended on July 23, 1995; Act No. 4121)
+
 Affirming the eternal existence of the Turkish Motherland
 and Nation and the indivisible unity of the Sublime Turkish
 State, this Constitution, in line with the concept of nationalism
@@ -52,18 +53,20 @@ democracy-loving Turkish sons’ and daughters’ love for the
 motherland and nation.
 
 ## PART ONE - General Principles
-**I. Form of the State**
+### **I. Form of the State**
 
 **ARTICLE 1-** The State of Turkey is a Republic
 
-**II. Characteristics of the Republic**
+### **II. Characteristics of the Republic**
+
 **ARTICLE 2-** The Republic of Turkey is a democratic, secular
 and social state governed by he rule of law, within the notions
 of public peace, national solidarity and justice, respecting
 human rights, loyal to the nationalism of Atatürk, and based on
 the fundamental tenets set forth in the preamble.
 
-**III. Integrity, official language, flag, national anthem, and the capital of the State**
+### **III. Integrity, official language, flag, national anthem, and the capital of the State**
+
 **ARTICLE 3-** The State of Turkey, with its territory and nation,
 is an indivisible entity. Its langage is Turkish.
 Its flag, the form of which is prescribed by the relevant law,
@@ -71,7 +74,8 @@ is composed of a white crescent and star on a red background
 Its national anthem is the “Independence March”.
 Its capital is Ankara.
 
-**IV. Irrevocable provisions**
+### **IV. Irrevocable provisions**
+
 **ARTICLE 4-** The provision of Article 1 regarding the form
 of the State being a Republic, the characteristics of the Republic
 in Article 2, and the provisions of Article 3 shall not be amended,

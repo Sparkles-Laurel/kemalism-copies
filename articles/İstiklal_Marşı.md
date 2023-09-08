@@ -61,7 +61,7 @@ Neither you nor my kin shall ever be extinguished!
 For freedom is the absolute right of my ever-free flag;
 For independence is the absolute right of my God-worshipping nation!
 ```
-\- Mehmet Âkif Ersoy
+\- Mehmet Âkif Ersoy[^2]
 
 [^1]: written in form of code blocks to preserve formatting during parsing
 
